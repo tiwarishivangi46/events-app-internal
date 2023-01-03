@@ -9,3 +9,8 @@ git config --global --list
 git init
 git add.
 git add .\
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/tiwarishivangi46/events-app-internal.git
+git push -u origin main
+git init
