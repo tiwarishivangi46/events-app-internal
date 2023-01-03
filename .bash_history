@@ -14,3 +14,11 @@ git commit -m "initial commit"
 git remote add origin https://github.com/tiwarishivangi46/events-app-internal.git
 git push -u origin main
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin git@github.com:tiwarishivangi46/events-app-external.git
+git remote add origin https://github.com/tiwarishivangi46/events-app-external.git
+git push -u origin master
+git remote add origin https://github.com/tiwarishivangi46/events-app-external.git
+git push -u origin master
+git init
